@@ -1,7 +1,7 @@
-## Salve, salve !! Eu sou o Andrey Cauam, estou começando a desbravar o mundo da programação!
+## Salve, salve !! Eu sou o Andrey Cauam, tenho 27 anos e sou natural de Barra dos Coqueiros - SE!
 
-- 👋 Estou migrando da Geografia para área de tecnologia
-- 👀 Começando meus estudos pela linguagem PHP
+- 👋 Sou formado em Geografia, mas atualmente atuando na áre de desenvolvimento web
+- 👀 Focado em HTML, CSS e JAVASCRIPT
 
 
 
