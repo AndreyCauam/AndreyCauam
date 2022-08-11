@@ -3,6 +3,8 @@
 - 👋 Sou formado em Geografia, mas atualmente atuando na áre de desenvolvimento web
 - 👀 Focado em HTML, CSS e JAVASCRIPT
 
+ ✨ [Acesse meu Linkedin](https://www.linkedin.com/in/andrey-cauam-314186222/)
+
 
 
 
