@@ -1,4 +1,4 @@
-## Salve, salve !! Eu sou o Andrey Cauam, tenho 27 anos e sou natural de Barra dos Coqueiros - SE!
+## Salve, salve !! Eu sou o Andrey Cauam, tenho 27 anos e sou residente da Barra dos Coqueiros - SE!
 
 - 👋 Sou formado em Geografia, mas atualmente atuando na áre de desenvolvimento web
 - 👀 Focado em HTML, CSS e JAVASCRIPT
