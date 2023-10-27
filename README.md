@@ -1,10 +1,12 @@
-## Salve, salve !! Eu sou o Andrey Cauam, tenho 28 anos e sou residente da Barra dos Coqueiros - SE!
+## Salve, salve !! Eu sou o Andrey Cauam, tenho 29 anos e sou residente da Barra dos Coqueiros - SE!
 
-- 👋 Em 2022 iniciei minha jornada na área de TI e no fim deste mesmo ano consegui minha primeira oportunidade
-na área, sendo ela como Freelancer, tendo como responsabilidade desenvolver uma aplicação do zero, envolvendo desde
-o contato com o Frontend quanto com o Backend. Nessa aplicação utilizo como principal ferramente o framework Laravel.
+- 👋 Minha jornada na área de desenvolvimento de software começou no ínicio de 2022, onde com o incentivo de amigos eu decidi migrar de área e me dedicar exclusivamente aos estudos nessa área.
 
-- 👀 Focado em HTML, CSS, PHP e LARAVEL
+- No final do ano de 2022 me encontrei como desenvolvedor Back-end, utilizando como principal linguagem o PHP. A partir disso conheci o framework Laravel que atualmente é a ferramenta de desenvolvimento que me dedico aos estudos e utilizo nos meus trabalhos e projetos.
+
+- Atualemente faço parte de uma equipe responsável pelo desenvolvimento de novas features e manutenção de uma plataforma voltada para ensino.
+
+- 👀 PHP e LARAVEL
 
  ✨ [Acesse meu Linkedin](https://www.linkedin.com/in/andrey-cauam-314186222/)
 
